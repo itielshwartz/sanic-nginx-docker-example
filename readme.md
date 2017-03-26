@@ -1,6 +1,6 @@
 # Sanic & Nginx & docker-compose example
 # About
-Simple and easy to use skelton-project using [Sanic] behined [nginx].
+Simple and easy to use skeleton-project using [Sanic] behined [nginx].
 
 Using docker and docker-compose to orchestrate everything.
 
